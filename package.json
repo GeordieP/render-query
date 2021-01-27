@@ -11,6 +11,9 @@
   "scripts": {
     "build": "rollup -c"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
