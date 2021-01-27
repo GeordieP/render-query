@@ -1,6 +1,6 @@
 {
   "name": "@geordiep/render-query",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Geordie Powers <gp@gpow.ca>",
   "repository": "https://github.com/GeordieP/render-query",
   "main": "build/index.js",
